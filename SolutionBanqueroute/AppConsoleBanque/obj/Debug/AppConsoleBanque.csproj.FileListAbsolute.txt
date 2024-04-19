@@ -1,0 +1,14 @@
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe.config
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\bin\Debug\AppConsoleBanque.pdb
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\bin\Debug\libBanque.dll
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\bin\Debug\libBanque.pdb
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.AssemblyReference.cache
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CoreCompileInputs.cache
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CopyComplete
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.exe
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.pdb
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.AssemblyReference.cache
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CoreCompileInputs.cache
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.exe
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppConsoleBanque\obj\Debug\AppConsoleBanque.pdb

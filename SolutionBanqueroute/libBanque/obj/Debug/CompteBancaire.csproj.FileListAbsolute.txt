@@ -1,0 +1,6 @@
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\libBanque\bin\Debug\libBanque.dll
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\libBanque\bin\Debug\libBanque.pdb
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\libBanque\obj\Debug\CompteBancaire.csproj.AssemblyReference.cache
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\libBanque\obj\Debug\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\libBanque\obj\Debug\libBanque.dll
+C:\Users\beren\OneDrive\Documents\Workspace\TP\SolutionBanqueroute\libBanque\obj\Debug\libBanque.pdb

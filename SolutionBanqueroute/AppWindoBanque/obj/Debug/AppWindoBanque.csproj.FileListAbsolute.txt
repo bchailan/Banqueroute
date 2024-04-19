@@ -1,0 +1,13 @@
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\bin\Debug\AppWindoBanque.exe.config
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\bin\Debug\AppWindoBanque.exe
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\bin\Debug\AppWindoBanque.pdb
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\bin\Debug\libBanque.dll
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\bin\Debug\libBanque.pdb
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\obj\Debug\AppWindoBanque.csproj.AssemblyReference.cache
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\obj\Debug\AppWindoBanque.FrmBanque.resources
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\obj\Debug\AppWindoBanque.Properties.Resources.resources
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\obj\Debug\AppWindoBanque.csproj.GenerateResource.cache
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\obj\Debug\AppWindoBanque.csproj.CoreCompileInputs.cache
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\obj\Debug\AppWindoBanque.csproj.CopyComplete
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\obj\Debug\AppWindoBanque.exe
+C:\Users\beren\OneDrive\Bureau\SolutionBanqueroute\AppWindoBanque\obj\Debug\AppWindoBanque.pdb
